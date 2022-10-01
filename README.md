@@ -9,6 +9,8 @@ Para ejecutar, puede ir a la terminal y ejecutar los siguientes comandos:
 
 `mvn spring-boot:run`
 
+Recuerde que esta clase esta basada en este [tutorial](https://spring.io/guides/tutorials/spring-boot-oauth2/).
+
 
 ## Error con Maven
 Si quizas al ejecutar los comandos de `maven` algo falla, pueden seguir [este tutorial](https://www.how2shout.com/how-to/download-and-install-maven-on-windows-10-or-11-via-command-line.html) para instalarlo en windows.
